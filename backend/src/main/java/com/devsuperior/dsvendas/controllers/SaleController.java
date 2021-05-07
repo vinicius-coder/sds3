@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.devsuperior.dsvendas.dtos.SaleDTO;
 import com.devsuperior.dsvendas.dtos.SaleSuccessDTO;
 import com.devsuperior.dsvendas.dtos.SaleSumDTO;
-import com.devsuperior.dsvendas.sercices.SaleService;
+import com.devsuperior.dsvendas.services.SaleService;
 
 @RestController
 @RequestMapping(value = "/sales")

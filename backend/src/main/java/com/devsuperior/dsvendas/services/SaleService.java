@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.sercices;
+package com.devsuperior.dsvendas.services;
 
 import java.util.List;
 

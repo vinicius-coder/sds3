@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.devsuperior.dsvendas.dtos.SellerDTO;
-import com.devsuperior.dsvendas.sercices.SellerService;
+import com.devsuperior.dsvendas.services.SellerService;
 
 @RestController
 @RequestMapping(value = "/sellers")
